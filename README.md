@@ -4,7 +4,7 @@ Set Minikube:
 ```bash
 export MAGMA_ROOT=/home/shubham/myfiles/git/minikube-magma/magma
 
-minikube start \ 
+minikube start \
   --memory=8192 \
   --cpus=1 \
   --kubernetes-version=v1.18.0 \
